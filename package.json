@@ -1,0 +1,24 @@
+{
+  "name": "lgtmeme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lgtm": "./index.js"
+  },
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelemur/lgtmeme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codelemur/lgtmeme/issues"
+  },
+  "homepage": "https://github.com/codelemur/lgtmeme#readme"
+}
